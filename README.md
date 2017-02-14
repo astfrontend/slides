@@ -5,6 +5,7 @@
 - [AST Frontend meetup #1](#astfrontend1)
 - [FrontendFellows #6](#frontendfellows)
 - [AST Frontend meetup #2](#astfrontend2)
+- [AST Frontend meetup #3](#astfrontend3)
 
 ## <a name="astfrontend1"></a> AST Frontend meetup #1
 
@@ -103,3 +104,23 @@
 Докладчик расскажет о том, что такое автоматизированная сборка фронтенда и как с этим нам поможет Gulp
 
 [презентация](https://yadi.sk/i/BgK9ddYJwZ9QZ)
+
+## <a name="astfrontend3"></a> AST Frontend meetup #3
+
+11.02.17
+
+Коворкинг "Цоколь", г.Астана, ул. Иманбаевой 5
+
+**1. «JavaScript: новая надежда»**
+
+Смирнов Сергей, фронтенд разработчик
+
+Знакомство с прогрессивным фреймворком Vue.js
+
+[презентация](https://sms-system.github.io/javascript-new-hope/)
+
+**2. «Паттерны функционального программирования»**
+
+Таир Сабыргалиев, ТОО «Метфор»
+
+[презентация](https://yadi.sk/i/kZH8BM_G3E4AXz)
