@@ -6,6 +6,7 @@
 - [FrontendFellows #6](#frontendfellows)
 - [AST Frontend meetup #2](#astfrontend2)
 - [AST Frontend meetup #3](#astfrontend3)
+- [AST Frontend meetup #4](#astfrontend4)
 
 ## <a name="astfrontend1"></a> AST Frontend meetup #1
 
@@ -124,3 +125,22 @@
 Таир Сабыргалиев, ТОО «Метфор»
 
 [презентация](https://yadi.sk/i/kZH8BM_G3E4AXz)
+
+
+## <a name="astfrontend4"></a> AST Frontend meetup #4
+
+30.06.17
+
+Компьютерная Академия «Шаг», г. Астана, ул. Алии Молдагуловой, 25, аудитория 108
+
+**1. «UX/UI взаимодействие с фронтэнд программистом»**
+
+Белоусов Евгений, дизайнер в компании DEPO
+
+[презентация](https://yadi.sk/d/8zEMLZK03Kmiou)
+
+**2. «Автоматизированное тестирование программного обеспечения для новичков»**
+
+Сержан Есембеков, тестировщик в ТОО «Dynamics Technologies»
+
+[презентация](https://yadi.sk/i/bJBy1YIV3Kmin3)
